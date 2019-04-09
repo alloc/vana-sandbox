@@ -1,0 +1,19 @@
+body {
+  text-align: center;
+  font-family: sans-serif;
+}
+
+.app {
+  min-height: 40vh;
+  display: block;
+}
+
+.spacer {
+  width: 1px;
+  height: 10px;
+}
+
+.history-item {
+  font-family: Menlo, monospace;
+  margin: 5px;
+}
